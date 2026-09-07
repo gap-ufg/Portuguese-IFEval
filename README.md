@@ -321,31 +321,11 @@ The PT column of Table 5 reports strict instruction-level accuracy restricted to
 
 These results show that strong performance on a directly translated benchmark does not guarantee reliable compliance with fine-grained Portuguese constraints.
 
+## Acknowledgments
+
+This work has been funded by the project Research and Development of Genese Digital: Scaling Interactive and Culturally Adapted Digital Humans with Generative AI, supported by the Advanced Knowledge Center in Immersive Technologies (AKCIT), with financial resources from the PPI IoT/Manufatura 4.0 / PPI HardwareBR of the MCTI, grant number 057/2023, signed with EMBRAPII, and supported by P\&D CEMIG/ANEEL PD-04950-D0677/2023.
 ## References
 
-If you use the multilingual foundation of this work, cite M-IFEval:
-
-```bibtex
-@inproceedings{Dussolle2025MIFEval,
-  title={M-IFEval: Multilingual Instruction-Following Evaluation},
-  author={Dussolle, Antoine and Cardeña, Andrea and Sato, Shota and Devine, Peter},
-  booktitle={Findings of the Association for Computational Linguistics: NAACL 2025},
-  pages={6161--6176},
-  year={2025},
-  url={https://arxiv.org/abs/2502.04688}
-}
-```
-
-The original IFEval benchmark can be cited as:
-
-```bibtex
-@article{zhou2023instruction,
-  title={Instruction-Following Evaluation for Large Language Models},
-  author={Zhou, Jeffrey and Lu, Tianjian and Mishra, Swaroop and Brahma, Siddhartha and Basu, Sujoy and Luan, Yi and Zhou, Denny and Hou, Le},
-  journal={arXiv preprint arXiv:2311.07911},
-  year={2023}
-}
-```
 
 The Portuguese-IFEval paper is currently an anonymous submission. Its final citation should be added after publication metadata becomes available.
 
